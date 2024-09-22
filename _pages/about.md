@@ -8,18 +8,15 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, I'm a consultant with McKinsey, spending most of my time on pricing, commercial topics, and growth strategy across various industries. I also make music.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before that, I worked in the [MJ Lab at Harvard Medical School](https://mj-lab.mgh.harvard.edu/), using machine learning and NLP techniques to study the effect of weather on COVID-19 transmission, the public's perceptions of such effects, and social media discussion of opioids. I also performed math research at UNC-Chapel Hill with [Jeremy Marzuola](https://marzuola.web.unc.edu/) and [Tom Beck](https://sites.google.com/view/thomasbeck/home) in partial differential equations (namely, on [Laplacian eigenfunctions](https://www.youtube.com/watch?v=tFAcYruShow)), which resulted in a [joint publication](https://link.springer.com/article/10.1007/s00023-024-01424-3).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I studied math, computer science, and music at UNC-Chapel Hill.
