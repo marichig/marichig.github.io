@@ -21,4 +21,4 @@ Before that, I worked in the [MJ Lab at Harvard Medical School](https://mj-lab.m
 
 I also performed math research at UNC-Chapel Hill with [Jeremy Marzuola](https://marzuola.web.unc.edu/) and [Tom Beck](https://sites.google.com/view/thomasbeck/home) in partial differential equations (namely, on [Laplacian eigenfunctions](https://www.youtube.com/watch?v=tFAcYruShow)), which resulted in a [joint publication](https://link.springer.com/article/10.1007/s00023-024-01424-3).
 
-I studied math, computer science, and music at UNC-Chapel Hill. 
+I studied math, computer science, and music at UNC-Chapel Hill.
